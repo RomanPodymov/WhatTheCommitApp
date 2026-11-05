@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WhatTheCommitApp</string>
+    <string name="new_commit">New commit</string>
+    <string name="retry">Retry</string>
+    <string name="loading_commit">Loading commit message</string>
+    <string name="commit_error">Could not load a commit message. Please try again.</string>
+</resources>
